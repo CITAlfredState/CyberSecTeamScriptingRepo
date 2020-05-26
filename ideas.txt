@@ -1,0 +1,71 @@
+The repository is meant to store scripts of varrying types Attack/Defence and so on.
+
+Steps of Defending a network
+Planning/Reconissance
+Scanning
+Hardening
+	External Network
+	Internal Network
+	Hosts/OS/Server
+	Applications/Database
+	Data
+Incident response
+Digital Forensics
+
+Steps of attacking a network
+Planning/Reconissance
+Scanning
+Gaining access
+Maintaining access
+Analysis & reporting
+
+JSON:
+Name
+Link
+Description
+Categories
+
+
+Ideas:
+-Compile into a webpage 
+	so that non-nterns/admins can view and learn
+	with a CRUD for future Interns to build upon
+
+
+
+
+
+Jobs and workflow
+WMI, CIM, PSWA
+Monitoring performance
+Securing scripts
+Events and Monitoring
+Real Time Dashboard
+
+
+
+
+
+Single tasks
+	debloating
+	
+
+automate service reconfiguration when down
+	Firewall
+	Group Policy
+	TCP/IP Ports
+automate service shutdown when up
+	Firewall
+	TCP/IP Ports
+----
+----
+Databases
+	Backups
+debloating
+monitoring
+	auditing
+	logging
+TCP/IP
+SNMP
+sccm
+Firewall Configuration
