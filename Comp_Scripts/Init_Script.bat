@@ -33,6 +33,8 @@ if %errorLevel% == 0 (
     ::/Prevent/ Dump file creation
     ::AutoRun
     ::NetBIOS
+    ::MACROs
+
 
     ::REMOVE...
     ::GUEST ACCOUNT
@@ -45,6 +47,7 @@ if %errorLevel% == 0 (
 
     ::Clean credentials
     ::pwd cache
+    ::Clean Paging File
 
 
 
@@ -56,6 +59,10 @@ if %errorLevel% == 0 (
     ::Firewall Rules
     ::Windows Features/Services
     ::Common Group Policies
+        ::restrict CD ROM Drive 
+        ::Admin Logon
+        ::Remote access to Floppy disks
+        ::
     ::De-Bloating
 
 

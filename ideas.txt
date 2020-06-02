@@ -36,6 +36,15 @@ IE password cache
 DNS cache
 HOSTS file
 
+=============
+COMMONLY Exploited registry keys
+Run/RunOnce Keys
+    HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run
+    HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\RunOnce
+   OR
+    HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Run
+    HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\RunOnce
+    HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer\Run
 
 
 =============
