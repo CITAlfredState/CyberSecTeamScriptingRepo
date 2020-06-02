@@ -1,22 +1,22 @@
 The repository is meant to store scripts of varrying types Attack/Defence and so on.
 
 OFF:
-UAC
-Guest Users
-Remote desktop
-Automatic updating
+Guest Users+
+Remote desktop+
+Automatic updating+
 remote registry
 Telephony
 Remote access
 !Administrator
 !questionable firewall rules
-!windows firewall features
+!windows features
 	IIS, FTP, C/S
 Dump file creation
 autorun
 IE password caching
 
 ON:
+UAC
 Windows Smart screen
 Auditing features
 
